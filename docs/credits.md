@@ -211,10 +211,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/dr460nf1r3">
-            <img src="https://avatars.githubusercontent.com/u/12834713?v=4" width="80;" alt="dr460nf1r3"/>
+        <a href="https://github.com/XertDev">
+            <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
             <br />
-            <sub><b>Nico</b></sub>
+            <sub><b>Xert</b></sub>
         </a>
     </td></tr>
 </table>
